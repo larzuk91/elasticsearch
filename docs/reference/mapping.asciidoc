@@ -108,7 +108,7 @@ the top-level mapping type, and to inner <<object,`object`>>  and
 
 The
 <<dynamic-mapping,dynamic mapping>> rules can be configured to
-customise the mapping that is used for new types and new fields.
+customize the mapping that is used for new types and new fields.
 
 [float]
 == Explicit mappings
